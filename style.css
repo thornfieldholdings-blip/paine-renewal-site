@@ -35,7 +35,7 @@ header .container {
 }
 
 .logo img {
-    height: 100px;
+    height: 250px;
     width: auto;
 }
 
@@ -420,4 +420,5 @@ footer a:hover {
         height: 40px;
     }
 }
+
 
