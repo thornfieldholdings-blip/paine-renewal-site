@@ -20,7 +20,7 @@ body {
 /* Header */
 header {
     background: #b8e0f5;
-    color: #1a365d;
+    color: white;
     padding: 1rem 0;
     position: sticky;
     top: 0;
@@ -40,7 +40,7 @@ header .container {
 }
 
 nav a {
-    color: white;
+    color:  #1a365d;
     text-decoration: none;
     margin-left: 2rem;
     font-weight: 500;
@@ -431,7 +431,7 @@ footer p {
 }
 
 footer a {
-    color: #1a365d;
+    color: white;
     text-decoration: none;
 }
 
@@ -475,6 +475,7 @@ footer a:hover {
         padding: 2rem;
     }
 }
+
 
 
 
