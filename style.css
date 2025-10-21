@@ -85,6 +85,7 @@ nav a:hover {
     transition: background 0.3s;
     border: none;
     cursor: pointer;
+    font-size: 1rem;
 }
 
 .btn:hover {
@@ -272,4 +273,9 @@ nav a:hover {
 
 .service-detail-card ul li {
     margin-bottom: 0.5rem;
-    padding-left: 1.
+    padding-left: 1.5rem;
+    position: relative;
+    color: #4a5568;
+}
+
+.service-detail-card ul li:before {
