@@ -19,7 +19,7 @@ body {
 
 /* Header */
 header {
-    background: #4a7ba7;
+    background: ##1a365d;
     color: white;
     padding: 1rem 0;
     position: sticky;
@@ -475,4 +475,5 @@ footer a:hover {
         padding: 2rem;
     }
 }
+
 
