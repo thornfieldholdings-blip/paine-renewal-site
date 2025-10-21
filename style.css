@@ -431,7 +431,7 @@ footer p {
 }
 
 footer a {
-    color: white;
+    color: #1a365d;
     text-decoration: none;
 }
 
@@ -475,6 +475,7 @@ footer a:hover {
         padding: 2rem;
     }
 }
+
 
 
 
